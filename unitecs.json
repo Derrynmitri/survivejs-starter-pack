@@ -1,6 +1,21 @@
-{
+
 	"units": [{
 		"unit_id": "0",
+		"unit_name": "Flat 11",
+		"cards": [{
+			"card_id": "0",
+			"card_num": "00001111222233334444",
+			"card_status": "0",
+			"date": "2016/09/19"
+		}, {
+			"card_id": "1",
+			"card_num": "00001111222233335555",
+			"card_status": "0",
+			"date": "2016/09/19"
+		}]
+	}, {
+		"unit_id": "1",
+		"unit_name": "Flat 12",
 		"cards": [{
 			"card_id": "0",
 			"card_num": "00001111222233334444",
